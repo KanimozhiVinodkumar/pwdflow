@@ -1,6 +1,6 @@
 import React from 'react'
 import {BrowserRouter,Routes,Route} from 'react-router-dom'
-import Navbar from './Components/Navbar'
+
 import HomePage from './Components/HomePage'
 import SignIn from './Components/SignIn'
 import RegistrationForm from './Components/RegistrationForm'
