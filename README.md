@@ -62,6 +62,6 @@ The application can be deployed to Netlify for public access.
 
 1. Pushed the code to GitHub.
 2. Deployed the application by connecting our GitHub repository to Netlify App.
-3. Use the [Netlify URL](https://passwordresetflowapp.netlify.app/) to access your deployed API.
+3. Use the [Netlify URL](https://passwordresetflowapp.netlify.app/) to access our deployed Application.
 
 
