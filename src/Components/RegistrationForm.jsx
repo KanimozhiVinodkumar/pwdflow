@@ -72,7 +72,7 @@ const RegistrationForm = () => {
             <div  className="max-h-full   flex-col fixed inset-0 bg-black bg-opacity-50 flex justify-center items-center">
             <div className="bg-white p-6 rounded-lg w-full max-w-md flex flex-col justify-between">
                 <div>
-                <p className='text-center font-bold mb-4'> Terms & Conditions </p>
+                <p className='text-center font-bold mb-4'> Terms & Conditions Apply</p>
                 <ul className='list-decimal space-y-2'>
                     <li>This is an examplae app for Password Reset Flow</li>
                     <li>Here Don't share your important things</li>

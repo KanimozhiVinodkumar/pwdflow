@@ -76,7 +76,7 @@ const SignIn = () => {
                     htmlFor="email"
                     className="block mb-2 text-sm font-medium text-gray-900 dark:text-white"
                   >
-                    Your email
+                   Enter Your email
                   </label>
                   <input
                     type="email"
